@@ -4,7 +4,7 @@ This is a simple Python password generator.
 
 ## Features
 - User inputs password length
-- Uses letters, numbers and symbols
+- Uses letters and numbers
 - Formats output into groups of 4 characters
 
 ## How to run
