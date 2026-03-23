@@ -6,7 +6,7 @@ import random
 import string
 
 #selceting what characters can be called no spaces
-characters = string.ascii_letters + string.digits + "-"
+characters = string.ascii_letters + string.digits
 
 #ask for user input and put result as integer
 length = int(input("enter password length: "))
